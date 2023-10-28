@@ -8,9 +8,9 @@ This project involves cleaning a FIFA 21 dataset gotten from Kaggle. The dataset
 My thought process and complete step by step process of cleaning this data can be found on my jupyter notebook file
 
 A general outline of the steps taken are:
--Data Exploration: The first step was to explore the data and identify any potential problems such as missing values, duplicates, etc.
--Cleaning the data: The next step was to clean the data by fixing all identified problems that were identified in the exploration step. This involved removing duplicate rows, ensuring each column has the correct data type, extracting further information from already existing data, dropping columns which would not be of use in further analysis, performing further arithemetic operations, etc.
+.Data Exploration: The first step was to explore the data and identify any potential problems such as missing values, duplicates, etc.
+.Cleaning the data: The next step was to clean the data by fixing all identified problems that were identified in the exploration step. This involved removing duplicate rows, ensuring each column has the correct data type, extracting further information from already existing data, dropping columns which would not be of use in further analysis, performing further arithemetic operations, etc.
 
 Project Goals:
--To ensure the dataset is properly prepared and suitable for analysis
+.To ensure the dataset is properly prepared and suitable for analysis
 
