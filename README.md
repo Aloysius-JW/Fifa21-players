@@ -14,3 +14,4 @@ My thought process and complete step by step process of cleaning this data can b
 ### Project Goals:
 3) To ensure the dataset is properly prepared and suitable for analysis
 
+Overall, it was quite fun and eye opening to clean the data. I will update as more constructive feedback comes in. Thanks for reading!
